@@ -2,4 +2,13 @@
   npm i bootstrap@4.3.1
 
 2)To install Sass
-  npm install sass --save-dev  
+  npm install sass --save-dev
+
+3))To install axios
+  npm install axios
+
+4)To install sweetalert 
+  npm i sweetalert  
+
+5)To install html-entities
+  npm install html-entities
